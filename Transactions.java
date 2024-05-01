@@ -24,7 +24,7 @@ public class Transactions extends JFrame implements ActionListener{
         
         JLabel text = new JLabel("Please select your Transaction");
         text.setFont(new Font("System", Font.BOLD, 16));
-        text.setBounds(210,300,700,35);
+        text.setBounds(225,300,700,35);
         text.setForeground(Color.WHITE);
         image.add(text);
         
